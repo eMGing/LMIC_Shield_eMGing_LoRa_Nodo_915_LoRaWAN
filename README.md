@@ -1,5 +1,10 @@
 # Shield eMGing LoRa 915Mhz - Node Configuration for Frequencies (AU915 MHz)
 
+Facebook: http://www.facebook.com/eMGing.com.ar/
+Youtube: https://goo.gl/5QtmC8
+Web: http://www.eMGing.com.ar
+Mail: info@eMGing.com.ar
+
 The Shield eMGing LoRa is an Arduino shield that provides the ability to function as either a LoRaWAN node, or a single channel LoRaWAN gateway. This documentation, and accompanying source code focusses solely on creating a development LoRaWAN node. The specific purpose of this repository (and guide) is to provide an example Shield device operating on the standardised LoRaWAN frequencies for Argentina... specifically the 915 MHz to 930 MHz frequency, more commonly known as *AU915*.
 
 ## Quick Start
@@ -48,7 +53,8 @@ This section covers a complete and thorough walkthrough for installing an AU915 
 
 The [eMGing LoRa Shield](http://www.eMGing.com.ar/) is an affordable Arduino shield for prototype development of LoRaWAN devices. The device is excellent for a prototype node. The version used in this project in the US900 version - however, this device is not specifically supported for the AU915 specification.
 
-![](resources/Shield_eMGing_LoRa_v1.0_PINOUT.jpg "Shield_eMGing_LoRa_v1.0")
+![](resources/Shield_eMGing_LoRa_v1.0_desc.jpg "Shield_eMGing_LoRa_v1.0")
+![](resources/Shield_eMGing_LoRa_v1.0_PINOUT.jpg "Shield_eMGing_LoRa_v1.0_PINOUT")
 
 Attaching the LoRaWAN shield to an Arduino is a very simple process. Just plug the shield into the matching pins available. Plug and play! 
 
